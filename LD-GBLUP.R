@@ -66,7 +66,7 @@ p-link --file hapmap --make-bed
 
 
 
-####huamn data
+####human data
 
 
 #################33

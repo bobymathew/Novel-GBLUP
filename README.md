@@ -1,1 +1,1 @@
-Novel-GBLUP contains R code for the calculation of linkage-disequilibrium corrected genomic relationship matrix  presented in Mathew et al. (2018; Heredity) https://www.nature.com/articles/s41437-017-0023-4
+Novel-GBLUP contains R code for the calculation of linkage-disequilibrium corrected genomic relationship matrix  presented in Mathew et al. (2018; Heredity):: https://www.nature.com/articles/s41437-017-0023-4
